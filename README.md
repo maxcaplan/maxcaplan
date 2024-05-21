@@ -18,7 +18,7 @@
 
 ░ I’m currently learning: **rust, and godot**
 
-▒ You can find my work at: [maxcaplan.com](maxcaplan.com)
+▒ You can find my work at: [maxcaplan.com](https://maxcaplan.com)
 
 ▓ Connect with me: [Linkedin](https://linkedin.com/in/max-caplan)
 
