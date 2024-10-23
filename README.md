@@ -1,17 +1,4 @@
-```
-==================================================================
-     __    __  ______  __  __
-    /\ "-./  \/\  __ \/\_\_\_\
-    \ \ \-./\ \ \  __ \/_/\_\/_
-     \ \_\ \ \_\ \_\ \_\/\_\/\_\
-      \/_/  \/_/\/_/\/_/\/_/\/_/__  __      ______  __   __
-           /\  ___\/\  __ \/\  == \/\ \    /\  __ \/\ "-.\ \
-           \ \ \___\ \  __ \ \  _-/\ \ \___\ \  __ \ \ \-.  \
-            \ \_____\ \_\ \_\ \_\   \ \_____\ \_\ \_\ \_\\"\_\
-             \/_____/\/_/\/_/\/_/    \/_____/\/_/\/_/\/_/ \/_/
-
-======================= Developer/Designer =======================
-```
+![Portfolio cover image](https://raw.githubusercontent.com/maxcaplan/portfolio/refs/heads/master/public/assets/images/projects/max_caplan/cover/cover_lg.png)
 
 ### Hi, I'm Max! 🤖
 *I'm a full stack web developer and designer with over 3 years of freelance experience and a lifetime of passion for building things*
