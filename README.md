@@ -1,4 +1,4 @@
-![Portfolio cover image](https://raw.githubusercontent.com/maxcaplan/portfolio/refs/heads/master/public/assets/images/projects/max_caplan/cover/cover.png)
+![Portfolio cover image](https://raw.githubusercontent.com/maxcaplan/portfolio/refs/heads/master/public/assets/images/projects/max_caplan/cover/cover_lg.png)
 
 ### Hi, I'm Max! 🤖
 *I'm a full stack web developer and designer with over 3 years of freelance experience and a lifetime of passion for building things*
